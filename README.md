@@ -8,3 +8,6 @@ I've used the Nokia 5110 LCD because it is bigger than the OLED.
 
 The 3D model is avalible here:
 https://a360.co/2HWsKEx
+
+Ready to print STL files are here:
+https://www.thingiverse.com/thing:2896487
