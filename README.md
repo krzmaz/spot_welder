@@ -6,6 +6,15 @@ The 3D model is mostly based on a similar project from Jim Conner @ https://www.
 
 I've used the Nokia 5110 LCD because it is bigger than the OLED.
 
+## Features:
+- double and single pulse welding modes
+- saving and loading pulse times using EEPROM
+- 3.5mm jack connector for the trigger switch, allowing multiple trigger options
+
+## To do:
+- multiple pulse mode using on/off times and pulse quantity
+- zero-crossing detector for better timing in the microcontroller 
+
 The 3D model is avalible here:
 
 https://a360.co/2HWsKEx
